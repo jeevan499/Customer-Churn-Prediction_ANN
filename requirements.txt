@@ -1,0 +1,7 @@
+Tensorflow==2.15.0
+Pandas
+Numpy
+Scikit-learn
+Tensorboard
+Matplotlib
+streamlit
